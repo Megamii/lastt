@@ -1,4 +1,4 @@
-# lastt
+# Text reader
 # Read text from a file, and count the occurence of words in that text
 
 def read_file_content(filename):
